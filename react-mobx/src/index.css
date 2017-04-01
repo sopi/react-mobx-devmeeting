@@ -1,17 +1,3 @@
-.product {
-    text-decoration: none;
-    list-style:none; 
-}
-.name {
-    margin: 10px 0;    
-}
-.promoted .name{
-    color: green;
-}
-.tag {
-    background-color: #aeaeae;
-    border-radius: 5px;
-    margin: 3px;
-    padding: 5px;
-    color: #fff;
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
